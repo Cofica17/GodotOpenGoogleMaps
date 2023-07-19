@@ -1,0 +1,11 @@
+[config]
+
+name="GoogleMapsOpener"
+binary_type="local"
+binary="app-debug.aar"
+
+[dependencies]
+
+local=[]
+remote=[]
+custom_maven_repos=[]
